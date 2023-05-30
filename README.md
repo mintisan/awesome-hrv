@@ -43,6 +43,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Tutorial
 
 - [Heart Rate Variability Analysis with the HRV Toolkit](https://archive.physionet.org/tutorials/hrv-toolkit/)
+- [Everything You Should Know About Heart Rate Variability (HRV)](https://www.youtube.com/watch?v=ozcZSnjbPoE)
 
 
 ## Datasets
