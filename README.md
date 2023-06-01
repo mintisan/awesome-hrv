@@ -37,6 +37,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+- 2002-[An advanced detrending method with application to HRV analysis](https://pubmed.ncbi.nlm.nih.gov/12066885/)-1196
 - 2018-[An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis](https://pubmed.ncbi.nlm.nih.gov/30199376/)-185 | [code](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)-m
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2020-[RR-APET - Heart rate variability analysis software](https://pubmed.ncbi.nlm.nih.gov/31648100/)-15 | [code](https://gitlab.com/MegMcC/rr-apet-hrv-analysis-software)-py
