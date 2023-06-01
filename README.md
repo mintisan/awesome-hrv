@@ -91,6 +91,8 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Datasets
 
 - [MIT-BIH Polysomnographic Database](https://physionet.org/content/slpdb/1.0.0/)
+- [ECG GUDB](https://github.com/berndporr/ECG-GUDB) : High precision ECG Database with annotated R peaks, recorded and filmed under realistic conditions
+
 
 ## Contributing
 
