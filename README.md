@@ -37,8 +37,10 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+- 20180-[An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis](https://pubmed.ncbi.nlm.nih.gov/30199376/)-185 | [code](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)-m
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2020-[RR-APET - Heart rate variability analysis software](https://pubmed.ncbi.nlm.nih.gov/31648100/)-15 | [code](https://gitlab.com/MegMcC/rr-apet-hrv-analysis-software)-py
+- 2020-[Heart rate n-variability (HRnV) and its application to risk stratification of chest pain patients in the emergency department](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-020-01455-8)-19 | [code](https://github.com/nliulab/HRnV)-m
 - 2021-[Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.mdpi.com/1424-8220/21/12/3998)-87
 - 2021-[HRnV-Calc: A software package for heart rate n-variability and heart rate variability analysis](https://arxiv.org/abs/2111.09649) | [code](https://github.com/nliulab/HRnV-Calc)-m
 ## Tutorial
