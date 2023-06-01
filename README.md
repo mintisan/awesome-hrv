@@ -51,6 +51,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - https://github.com/nliulab/HRnV-Calc#metrics-descriptions
 - https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox#iii-guide-to-output
 - https://www.mdpi.com/1424-8220/21/12/3998 Table 1. A summary of HRV indices according to their respective analysis domains.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307944/table/tbl0001/?report=objectonly
 
 | Metrics                           | Units | Description                                                                             |
 |-----------------------------------|-------|-----------------------------------------------------------------------------------------|
