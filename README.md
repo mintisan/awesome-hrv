@@ -43,6 +43,41 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2020-[Heart rate n-variability (HRnV) and its application to risk stratification of chest pain patients in the emergency department](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-020-01455-8)-19 | [code](https://github.com/nliulab/HRnV)-m
 - 2021-[Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.mdpi.com/1424-8220/21/12/3998)-87
 - 2021-[HRnV-Calc: A software package for heart rate n-variability and heart rate variability analysis](https://arxiv.org/abs/2111.09649) | [code](https://github.com/nliulab/HRnV-Calc)-m
+
+## Indices
+
+- https://github.com/nliulab/HRnV-Calc#metrics-descriptions
+- https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox#iii-guide-to-output
+- https://www.mdpi.com/1424-8220/21/12/3998 Table 1. A summary of HRV indices according to their respective analysis domains.
+
+| Metrics                           | Units | Description                                                                             |
+|-----------------------------------|-------|-----------------------------------------------------------------------------------------|
+| **Tiem Domain**                       |       |                                                                                         |
+| Average RR                        | ms    | The mean of RR intervals                                                                |
+| SDRR                              | ms    | The standard deviation of RR intervals                                                  |
+| Average HR                        | 1/min | The mean of heart rate                                                                  |
+| SDHR                              | 1/min | The standard deviation of heart rate                                                    |
+| RMSSD                             | ms    | Square root of the mean squared differences between successive RR intervals             |
+| NN50                              | count | Numbers of RR intervals differ more than 50 ms from the previous intervals              |
+| pNN50                             | %     | Percentage of NN50 intervals within the entire RR intervals                             |
+| RR Skewness                       | -     | The skewness of the RR intervals distribution                                           |
+| RR Kurtosis                       | -     | The kurtosis of the RR intervals distribution                                           |
+| RR Triangular Index               | -     | The integral of the RR intervals histogram divided by the height of the histogram       |
+| **Frequency Domain**                  |       |      For more detailed documentations of the frequency domain metrics, check out [here](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox#frequency-domain-measures-of-hrv-default-using-lomb-periodogram-method).                                                                                   |
+| VLF, LF, and HF Peak frequencies  | Hz    | The peak frequencies in the power spectral distribution (PSD) for VLF, LF, and HF bands |
+| VLF, LF, and HF Powers            |       | Absolute powers of VLF, LF, and HF bands                                                |
+| VLF, LF, and HF Power Percentages | %     | The percentage for powers of VLF, LF, and HF bands within the overall spectrum          |
+| LF and HF Normalized Powers       | n.u.  | Normalized powers for LF and HF bands                                                   |
+| Total Power                       |       | The overall power of the PSD                                                            |
+| LF/HF                             | -     | The ratio between the powers of LF and HF bands                                         |
+| **Nonlinear Domain**                   |       |                                                                                         |
+| Poincare SD1 and SD2              | ms    | The width and length of the eclipse fitted in the Poincare plot                         |
+| App_Ent                           | -     | Approximate entropy                                                                     |
+| Sam_Ent                           | -     | Sample entropy                                                                          |
+| DFA &alpha;<sub>1</sub> and &alpha;<sub>2</sub>                              | -     | Short-term and long-term fluctuations of detrended fluctuation analysis (DFA)           | 
+
+
+
 ## Tutorial
 
 - [Heart Rate Variability Analysis with the HRV Toolkit](https://archive.physionet.org/tutorials/hrv-toolkit/)
