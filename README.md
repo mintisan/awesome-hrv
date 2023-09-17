@@ -62,7 +62,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2018-Baseline wander removal methods for ECG signals- A comparative study-19
 - 2018-Deep recurrent neural networks for ecg signal denoising-94
 - 2019-Deep Learning Models for Denoising ECG Signals-66
-- 2019-Noise Reduction in ECG Signals Using Fully Convolutional Denoising Autoencoders-192
+- 2019-[Noise Reduction in ECG Signals Using Fully Convolutional Denoising Autoencoders](https://www.researchgate.net/publication/333228342_Noise_Reduction_in_ECG_Signals_Using_Fully_Convolutional_Denoising_Autoencoders)-192 | [code](https://github.com/sophie091524/Noise-Reduction-in-ECG-Signals)
 - 2021-[DeepFilter- An ECG baseline wander removal filter using deep learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005899)-13 | [code](https://github.com/fperdigon/DeepFilter)
 - 2023-[DeScoD-ECG- Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542)-2 | [code](https://github.com/huayuliarizona/score-based-ecg-denoising)
 
