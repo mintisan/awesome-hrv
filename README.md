@@ -53,7 +53,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### Compression
 
--2020-[An Efficient Lossless Compression Method for Periodic Signals Based on Adaptive Dictionary Predictive Coding](https://www.mdpi.com/2076-3417/10/14/4918)-3
+- 2020-[An Efficient Lossless Compression Method for Periodic Signals Based on Adaptive Dictionary Predictive Coding](https://www.mdpi.com/2076-3417/10/14/4918)-3
 
 ## Indices
 
