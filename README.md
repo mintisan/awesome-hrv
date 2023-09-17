@@ -39,13 +39,21 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - 2002-[An advanced detrending method with application to HRV analysis](https://pubmed.ncbi.nlm.nih.gov/12066885/)-1196
 - 2018-[An Open Source Benchmarked Toolbox for Cardiovascular Waveform and Interval Analysis](https://pubmed.ncbi.nlm.nih.gov/30199376/)-185 | [code](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)-m
-- 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2020-[RR-APET - Heart rate variability analysis software](https://pubmed.ncbi.nlm.nih.gov/31648100/)-15 | [code](https://gitlab.com/MegMcC/rr-apet-hrv-analysis-software)-py
 - 2020-[Heart rate n-variability (HRnV) and its application to risk stratification of chest pain patients in the emergency department](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-020-01455-8)-19 | [code](https://github.com/nliulab/HRnV)-m
 - 2021-[Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.mdpi.com/1424-8220/21/12/3998)-87
 - 2021-[HRnV-Calc: A software package for heart rate n-variability and heart rate variability analysis](https://arxiv.org/abs/2111.09649) | [code](https://github.com/nliulab/HRnV-Calc)-m
 - 2021-[Unveiling the Structure of Heart Rate Variability (HRV) Indices: A Data-driven Meta-clustering Approach](https://psyarxiv.com/mwa6x/)
 - 2022-[Comprehensive HRV estimation pipeline in Python using Neurokit2: Application to sleep physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307944/)-1
+
+
+### R-peak
+- 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
+- 2013-[A Deep Learning Architecture Using 3D Vectorcardiogram to Detect R-Peaks in ECG with Enhanced Precision](https://www.mdpi.com/1424-8220/23/4/2288) | 
+
+### Compression
+
+-2020-[An Efficient Lossless Compression Method for Periodic Signals Based on Adaptive Dictionary Predictive Coding](https://www.mdpi.com/2076-3417/10/14/4918)-3
 
 ## Indices
 
