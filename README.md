@@ -84,6 +84,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2020-[Automatic diagnosis of the 12-lead ECG using a deep neural network](https://www.nature.com/articles/s41467-020-15432-4)-482 | [code](https://github.com/antonior92/automatic-ecg-diagnosis)
 - 2021-[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/document/9417097)-212 | [code](https://github.com/emadeldeen24/AttnSleep)
 - 2022-[A novel deep learning package for electrocardiography research](https://iopscience.iop.org/article/10.1088/1361-6579/ac9451/meta)-1 | [code](https://github.com/DeepPSP/torch_ecg)
+- 2022-[ECG-based Real-time Arrhythmia Monitoring Using Quantized Deep Neural Networks: A Feasibility Study](https://intsav.github.io/realtime_ecg.html)-24 | [code](https://github.com/intsav/RealtimeArrhythmiaMonitoring)
 
 ## Indices
 
