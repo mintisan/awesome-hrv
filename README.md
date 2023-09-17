@@ -49,6 +49,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### R-peak
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
+- 2021-[Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9451595)-43 | [code](https://github.com/MUzairZahid/R-Peak-Detection-1D-CNN)
 - 2013-[A Deep Learning Architecture Using 3D Vectorcardiogram to Detect R-Peaks in ECG with Enhanced Precision](https://www.mdpi.com/1424-8220/23/4/2288) | 
 
 ### Compression
