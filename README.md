@@ -50,6 +50,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### R-peak
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2014-[A real-time QRS detector based on higher-order statistics for ECG gated cardiac MRI](https://www.cinc.org/archives/2014/pdf/0733.pdf)-22
+- 2014-[3DQRS: A method to obtain reliable QRS complex detection within high field MRI using 12-lead ECG traces](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3961533/)-25
 - 2020-[A Crucial Wave Detection and Delineation Method for Twelve-Lead ECG Signals](https://ieeexplore.ieee.org/document/8954716)
 - 2021-[Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9451595)-43 | [code](https://github.com/MUzairZahid/R-Peak-Detection-1D-CNN)
 - 2022-[QRS complexes and T waves localization in multi-lead ECG signals based on deep learning and electrophysiology knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0957417422005747)-9
