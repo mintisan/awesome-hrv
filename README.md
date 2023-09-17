@@ -48,6 +48,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 
 ### R-peak
+- 1986-[Quantitative Investigation of QRS Detection Rules Using the MIT/BIH Arrhythmia Database](https://ieeexplore.ieee.org/document/4122227)-1555
 - 1987-[A Real-Time QRS Detection Algorithm](https://ieeexplore.ieee.org/document/4122029)-8721 | [code](https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection)
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2014-[A real-time QRS detector based on higher-order statistics for ECG gated cardiac MRI](https://www.cinc.org/archives/2014/pdf/0733.pdf)-22
@@ -55,6 +56,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2020-[A Crucial Wave Detection and Delineation Method for Twelve-Lead ECG Signals](https://ieeexplore.ieee.org/document/8954716)-20
 - 2021-[Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9451595)-43 | [code](https://github.com/MUzairZahid/R-Peak-Detection-1D-CNN)
 - 2022-[QRS complexes and T waves localization in multi-lead ECG signals based on deep learning and electrophysiology knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0957417422005747)-9
+- 2022-[Pan-Tompkins++: A Robust Approach to Detect R-peaks in ECG Signals](https://arxiv.org/abs/2211.03171)-1 | [code](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)
 - 2013-[A Deep Learning Architecture Using 3D Vectorcardiogram to Detect R-Peaks in ECG with Enhanced Precision](https://www.mdpi.com/1424-8220/23/4/2288) | 
 
 ### Compression
