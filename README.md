@@ -81,6 +81,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[DeScoD-ECG- Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542)-2 | [code](https://github.com/huayuliarizona/score-based-ecg-denoising)
 
 ### Classification 
+- 2020-[Automatic diagnosis of the 12-lead ECG using a deep neural network](https://www.nature.com/articles/s41467-020-15432-4)-482 | [code](https://github.com/antonior92/automatic-ecg-diagnosis)
 - 2021-[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/document/9417097)-212 | [code](https://github.com/emadeldeen24/AttnSleep)
 
 ## Indices
