@@ -18,7 +18,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Standard
 
 - [HRV: Standards of Measurement, Physiological Interpretation and Clinical Use](https://www.ahajournals.org/doi/10.1161/01.CIR.93.5.1043)
-- [Kubios HRV Standard](https://www.kubios.com/hrv-standard/) : [Kubios HRV Software](https://www.kubios.com/downloads/Kubios_HRV_Users_Guide.pdf)
+- [Kubios HRV Standard](https://www.kubios.com/hrv-standard/) : [Kubios HRV Software](https://www.kubios.com/downloads/Kubios_HRV_Users_Guide.pdf) | [Kubios HRV Scientific](https://www.kubios.com/downloads/HRV-Scientific-Users-Guide.pdf)
 
 ## Library
 
