@@ -86,6 +86,10 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[A novel deep learning package for electrocardiography research](https://iopscience.iop.org/article/10.1088/1361-6579/ac9451/meta)-1 | [code](https://github.com/DeepPSP/torch_ecg)
 - 2022-[ECG-based Real-time Arrhythmia Monitoring Using Quantized Deep Neural Networks: A Feasibility Study](https://intsav.github.io/realtime_ecg.html)-24 | [code](https://github.com/intsav/RealtimeArrhythmiaMonitoring)
 
+### Quality Assessment
+-2022-[Robustness of electrocardiogram signal quality indices](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0012)-16
+
+
 ## Indices
 
 - https://github.com/nliulab/HRnV-Calc#metrics-descriptions
