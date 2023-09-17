@@ -48,6 +48,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 
 ### R-peak
+
 - 1986-[Quantitative Investigation of QRS Detection Rules Using the MIT/BIH Arrhythmia Database](https://ieeexplore.ieee.org/document/4122227)-1555
 - 1987-[A Real-Time QRS Detection Algorithm](https://ieeexplore.ieee.org/document/4122029)-8721 | [code](https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection)
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
@@ -78,6 +79,9 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2019-[Noise Reduction in ECG Signals Using Fully Convolutional Denoising Autoencoders](https://www.researchgate.net/publication/333228342_Noise_Reduction_in_ECG_Signals_Using_Fully_Convolutional_Denoising_Autoencoders)-192 | [code](https://github.com/sophie091524/Noise-Reduction-in-ECG-Signals)
 - 2021-[DeepFilter- An ECG baseline wander removal filter using deep learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005899)-13 | [code](https://github.com/fperdigon/DeepFilter)
 - 2023-[DeScoD-ECG- Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542)-2 | [code](https://github.com/huayuliarizona/score-based-ecg-denoising)
+
+### Classification 
+- 2021-[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/document/9417097)-212 | [code](https://github.com/emadeldeen24/AttnSleep)
 
 ## Indices
 
