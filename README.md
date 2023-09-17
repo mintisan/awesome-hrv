@@ -55,6 +55,16 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - 2020-[An Efficient Lossless Compression Method for Periodic Signals Based on Adaptive Dictionary Predictive Coding](https://www.mdpi.com/2076-3417/10/14/4918)-3
 
+### Denoise
+
+- 1985-Removal of base-line wander and power-line interference from the ecg by an efficient fir filter with a reduced number of taps-487
+- 2015-Removal of noise from electrocardiogram using digital fir and iir filters with various methods
+- 2018-Baseline wander removal methods for ECG signals- A comparative study-19
+- 2018-Deep recurrent neural networks for ecg signal denoising-94
+- 2019-Deep Learning Models for Denoising ECG Signals-66
+- 2019-Noise Reduction in ECG Signals Using Fully Convolutional Denoising Autoencoders-192
+- 2021-[DeepFilter- An ECG baseline wander removal filter using deep learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005899)-13 | [code](https://github.com/fperdigon/DeepFilter)
+
 ## Indices
 
 - https://github.com/nliulab/HRnV-Calc#metrics-descriptions
