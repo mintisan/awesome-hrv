@@ -50,7 +50,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### R-peak
 
 - 1986-[Quantitative Investigation of QRS Detection Rules Using the MIT/BIH Arrhythmia Database](https://ieeexplore.ieee.org/document/4122227)-1555
-- 1987-[A Real-Time QRS Detection Algorithm](https://ieeexplore.ieee.org/document/4122029)-8721 | [code](https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection)
+- 1987-[A Real-Time QRS Detection Algorithm](https://ieeexplore.ieee.org/document/4122029)-8721 | [code](https://github.com/antimattercorrade/Pan_Tompkins_QRS_Detection) | [PanTompkinsQRS](https://github.com/rafaelmmoreira/PanTompkinsQRS)
 - 2011-[An Efficient R-peak Detection Based on New Nonlinear Transformation and First-Order Gaussian Differentiator](https://link.springer.com/article/10.1007/s13239-011-0065-3)-88 | [code](https://github.com/tru-hy/rpeakdetect)
 - 2013- [A Comparison of Three QRS Detection Algorithms Over a Public Database](https://www.sciencedirect.com/science/article/pii/S2212017313002831)-89
 - 2014-[A real-time QRS detector based on higher-order statistics for ECG gated cardiac MRI](https://www.cinc.org/archives/2014/pdf/0733.pdf)-22
