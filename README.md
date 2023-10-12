@@ -139,6 +139,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [MIT-BIH Polysomnographic Database](https://physionet.org/content/slpdb/1.0.0/)
 - [ECG GUDB](https://github.com/berndporr/ECG-GUDB) : High precision ECG Database with annotated R peaks, recorded and filmed under realistic conditions
 - [Chinese Cardiovascular Disease Database—CCDD Dataset](http://www.ecgdb.com/index.html)
+- [The 8th International Conference on Biomedical Engineering and Biotechnology (ICBEB 2019)](http://2019.icbeb.org/Challenge.html)
 - [CSPC2020](http://2020.icbeb.org/CSPC2020)
 - [Lobachevsky University Electrocardiography Database (LUDB)](https://physionet.org/content/ludb/1.0.1/)
 - [St. Petersburg Institute of Cardiological Technics 12-lead Arrhythmia Database (IN- CART)](https://physionet.org/content/incartdb/1.0.0/)
