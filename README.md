@@ -63,7 +63,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[Robust Peak Detection for Holter ECGs by Self-Organized Operational Neural Networks](https://arxiv.org/pdf/2110.02381.pdf)-11 | [code](https://github.com/MUzairZahid/R-Peak-Detection-1D-SelfONN)
 - 2022-[QRS complexes and T waves localization in multi-lead ECG signals based on deep learning and electrophysiology knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0957417422005747)-9
 - 2022-[Pan-Tompkins++: A Robust Approach to Detect R-peaks in ECG Signals](https://arxiv.org/abs/2211.03171)-1 | [code](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)
-- 2022-[Tiny-HR: Towards an interpretable machine learning pipeline for heart rate estimation on edge devices](https://arxiv.org/pdf/2208.07981.pdf) | [code](https://github.com/tataganesh/HRV-edgedevice)
+- 2022-[Tiny-HR: Towards an interpretable machine learning pipeline for heart rate estimation on edge devices](https://arxiv.org/pdf/2208.07981.pdf)-2 | [code](https://github.com/tataganesh/HRV-edgedevice)
 - 2023-[A Deep Learning Architecture Using 3D Vectorcardiogram to Detect R-Peaks in ECG with Enhanced Precision](https://www.mdpi.com/1424-8220/23/4/2288) | 
 
 ### Compression
