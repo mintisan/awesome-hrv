@@ -90,6 +90,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG](https://ieeexplore.ieee.org/document/9417097)-212 | [code](https://github.com/emadeldeen24/AttnSleep)
 - 2022-[A novel deep learning package for electrocardiography research](https://iopscience.iop.org/article/10.1088/1361-6579/ac9451/meta)-1 | [code](https://github.com/DeepPSP/torch_ecg)
 - 2022-[ECG-based Real-time Arrhythmia Monitoring Using Quantized Deep Neural Networks: A Feasibility Study](https://intsav.github.io/realtime_ecg.html)-24 | [code](https://github.com/intsav/RealtimeArrhythmiaMonitoring)
+- 2023-[A Tiny Matched Filter-Based CNN for Inter-Patient ECG Classification and Arrhythmia Detection at the Edge](https://www.mdpi.com/1424-8220/23/3/1365)-5
 
 ### Quality Assessment
 - 2022-[Robustness of electrocardiogram signal quality indices](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0012)-16
