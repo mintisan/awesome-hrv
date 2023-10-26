@@ -83,6 +83,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[DeScoD-ECG- Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542)-2 | [code](https://github.com/huayuliarizona/score-based-ecg-denoising)
 
 ### Classification 
+- 2015-[Real-Time Patient-Specific ECG Classification by 1D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837)-1605
 - 2020-[Automatic diagnosis of the 12-lead ECG using a deep neural network](https://www.nature.com/articles/s41467-020-15432-4)-482 | [code](https://github.com/antonior92/automatic-ecg-diagnosis)
 - 2021-[Real-Time Patient-Specific ECG Classification by 1D Self-Operational Neural Networks](https://arxiv.org/pdf/2110.02215.pdf)-34 | [code](https://github.com/omerferhatt/ecg-dnn)
 - 2021-[Automatic ECG Classification Using Continuous Wavelet Transform and Convolutional Neural Network](https://www.mdpi.com/1099-4300/23/1/119)-136 | [code](https://github.com/JackAndCole/ECG-Classification-Using-CNN-and-CWT)
