@@ -85,7 +85,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### Outiler
 
 - 2013-[Detecting outliers: Do not use standard deviation around the mean, use absolute deviation around the median](https://www.sciencedirect.com/science/article/abs/pii/S0022103113000668)-3637 | [code](https://www.sciencedirect.com/science/article/abs/pii/S0022103113000668)
-- 2019-[A robust algorithm for heart rate variability time series artefact correction using novel beat classification](https://pubmed.ncbi.nlm.nih.gov/31314618/)-164 | [code-systole](https://github.com/embodied-computation-group/systole)| [code-hrv-correction]([https://github.com/embodied-computation-group/systole](https://github.com/sokolmarek/hrv-correction))
+- 2019-[A robust algorithm for heart rate variability time series artefact correction using novel beat classification](https://pubmed.ncbi.nlm.nih.gov/31314618/)-164 | [code-systole](https://github.com/embodied-computation-group/systole) | [code-hrv-correction](https://github.com/sokolmarek/hrv-correction)
 - 2019-[Outlier Detection: How to Threshold Outlier Scores?](http://www.cs.joensuu.fi/sipu/pub/a37-yang.pdf)
 
 ### Classification 
