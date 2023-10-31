@@ -88,6 +88,12 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2019-[A robust algorithm for heart rate variability time series artefact correction using novel beat classification](https://pubmed.ncbi.nlm.nih.gov/31314618/)-164 | [code-systole](https://github.com/embodied-computation-group/systole) | [code-hrv-correction](https://github.com/sokolmarek/hrv-correction)
 - 2019-[Outlier Detection: How to Threshold Outlier Scores?](http://www.cs.joensuu.fi/sipu/pub/a37-yang.pdf)
 
+#### outlier detection library
+- [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) : Anomaly detection related books, papers, videos, and toolboxes
+- [PyOD](https://github.com/yzhao062/pyod) : A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [TODS](https://github.com/datamllab/tods) : An Automated Time-series Outlier Detection System
+
+
 ### Classification 
 - 2015-[Real-Time Patient-Specific ECG Classification by 1D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837)-1605
 - 2020-[Automatic diagnosis of the 12-lead ECG using a deep neural network](https://www.nature.com/articles/s41467-020-15432-4)-482 | [code](https://github.com/antonior92/automatic-ecg-diagnosis)
