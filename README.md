@@ -90,6 +90,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 #### outlier detection library
 - [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) : Anomaly detection related books, papers, videos, and toolboxes
+- [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) : List of tools & datasets for anomaly detection on time-series data.
 - [PyOD](https://github.com/yzhao062/pyod) : A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 - [TODS](https://github.com/datamllab/tods) : An Automated Time-series Outlier Detection System
 
