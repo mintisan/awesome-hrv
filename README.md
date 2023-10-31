@@ -95,6 +95,9 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
   - [Handbook of Anomaly Detection: With Python Outlier Detection](https://medium.com/dataman-in-ai/handbook-of-anomaly-detection-with-python-outlier-detection-1-introduction-c8f30f71961c)  
 - [TODS](https://github.com/datamllab/tods) : An Automated Time-series Outlier Detection System
 
+#### outlier tutorial
+
+- [Top 5 Outlier Detection Methods Every Data Enthusiast Must Know](https://dataheroes.ai/blog/outlier-detection-methods-every-data-enthusiast-must-know/#Choosing_the_Right_Outlier_Detection_Method_for_Your_Data_Analysis_Project)
 
 ### Classification 
 - 2015-[Real-Time Patient-Specific ECG Classification by 1D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837)-1605
