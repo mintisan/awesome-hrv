@@ -82,6 +82,12 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[DeepFilter- An ECG baseline wander removal filter using deep learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005899)-13 | [code](https://github.com/fperdigon/DeepFilter)
 - 2023-[DeScoD-ECG- Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542)-2 | [code](https://github.com/huayuliarizona/score-based-ecg-denoising)
 
+### Outiler
+
+- 2013-[Detecting outliers: Do not use standard deviation around the mean, use absolute deviation around the median](https://www.sciencedirect.com/science/article/abs/pii/S0022103113000668)-3637 | [code](https://www.sciencedirect.com/science/article/abs/pii/S0022103113000668)
+- 2019-[A robust algorithm for heart rate variability time series artefact correction using novel beat classification](https://pubmed.ncbi.nlm.nih.gov/31314618/)-164 | [code-systole](https://github.com/embodied-computation-group/systole)| [code-hrv-correction]([https://github.com/embodied-computation-group/systole](https://github.com/sokolmarek/hrv-correction))
+- 2019-[Outlier Detection: How to Threshold Outlier Scores?](http://www.cs.joensuu.fi/sipu/pub/a37-yang.pdf)
+
 ### Classification 
 - 2015-[Real-Time Patient-Specific ECG Classification by 1D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837)-1605
 - 2020-[Automatic diagnosis of the 12-lead ECG using a deep neural network](https://www.nature.com/articles/s41467-020-15432-4)-482 | [code](https://github.com/antonior92/automatic-ecg-diagnosis)
