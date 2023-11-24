@@ -88,6 +88,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2019-[A robust algorithm for heart rate variability time series artefact correction using novel beat classification](https://pubmed.ncbi.nlm.nih.gov/31314618/)-164 | [code-systole](https://github.com/embodied-computation-group/systole) | [code-hrv-correction](https://github.com/sokolmarek/hrv-correction)
 - 2019-[Outlier Detection: How to Threshold Outlier Scores?](http://www.cs.joensuu.fi/sipu/pub/a37-yang.pdf)
 - [Influence of Artefact Correction and Recording Device Type on the Practical Application of a Non-Linear Heart Rate Variability Biomarker for Aerobic Threshold Determination](https://www.mdpi.com/1424-8220/21/3/821)-30
+- 2022-[Impact of Using Different Levels of Threshold-Based Artefact Correction on the Quantification of Heart Rate Variability in Three Independent Human Cohorts](https://pubmed.ncbi.nlm.nih.gov/31979367/)-51
 
 #### outlier detection library
 - [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) : Anomaly detection related books, papers, videos, and toolboxes
