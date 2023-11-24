@@ -46,6 +46,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[Unveiling the Structure of Heart Rate Variability (HRV) Indices: A Data-driven Meta-clustering Approach](https://psyarxiv.com/mwa6x/)
 - 2022-[Comprehensive HRV estimation pipeline in Python using Neurokit2: Application to sleep physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307944/)-1
 - 2022-[Heart rate variability for medical decision support systems: A review](https://www.sciencedirect.com/science/article/abs/pii/S0010482522001998)-22
+- 2023-[A Review of Methods and Applications for a Heart Rate Variability Analysis](https://www.mdpi.com/1999-4893/16/9/433)
 
 
 ### R-peak
