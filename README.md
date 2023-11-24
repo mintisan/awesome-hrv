@@ -45,6 +45,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[HRnV-Calc: A software package for heart rate n-variability and heart rate variability analysis](https://arxiv.org/abs/2111.09649) | [code](https://github.com/nliulab/HRnV-Calc)-m
 - 2021-[Unveiling the Structure of Heart Rate Variability (HRV) Indices: A Data-driven Meta-clustering Approach](https://psyarxiv.com/mwa6x/)
 - 2022-[Comprehensive HRV estimation pipeline in Python using Neurokit2: Application to sleep physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9307944/)-1
+- 2022-[Heart rate variability for medical decision support systems: A review](https://www.sciencedirect.com/science/article/abs/pii/S0010482522001998)-22
 
 
 ### R-peak
