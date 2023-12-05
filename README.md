@@ -68,7 +68,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[Tiny-HR: Towards an interpretable machine learning pipeline for heart rate estimation on edge devices](https://arxiv.org/pdf/2208.07981.pdf)-2 | [code](https://github.com/tataganesh/HRV-edgedevice)
 - 2023-[A Deep Learning Architecture Using 3D Vectorcardiogram to Detect R-Peaks in ECG with Enhanced Precision](https://www.mdpi.com/1424-8220/23/4/2288) |
 
-#### Sleep
+#### Sleep(Apnea)
 
 - https://sleepdata.org/
 - 
