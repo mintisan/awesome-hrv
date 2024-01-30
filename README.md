@@ -119,6 +119,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[ECG-based Real-time Arrhythmia Monitoring Using Quantized Deep Neural Networks: A Feasibility Study](https://intsav.github.io/realtime_ecg.html)-24 | [code](https://github.com/intsav/RealtimeArrhythmiaMonitoring)
 - 2022-[ECG Heartbeat classification using deep transfer learning with Convolutional Neural Network and STFT technique](https://arxiv.org/abs/2206.14200)-6 | [code heartkit](https://ambiqai.github.io/heartkit/)
 - 2022-[Classification of ECG based on Hybrid Features using CNNs for Wearable Applications](https://arxiv.org/abs/2206.07648)-6 | [code heartkit](https://ambiqai.github.io/heartkit/)
+- 2022-[Classification of Electrocardiogram Signals Based on Hybrid Deep Learning Models](https://www.mdpi.com/2071-1050/14/24/16572)-5
 - 2023-[A Tiny Matched Filter-Based CNN for Inter-Patient ECG Classification and Arrhythmia Detection at the Edge](https://www.mdpi.com/1424-8220/23/3/1365)-5
 - 2023-[**Deep Learning-Based ECG Arrhythmia Classification: A Systematic Review**](https://www.mdpi.com/2076-3417/13/8/4964)-18
 - [Paperwithcode Arrhythmia Detection](https://paperswithcode.com/task/arrhythmia-detection)
